@@ -1,0 +1,12 @@
+Core Types:
+number: 1, 5.4, -99
+string: 'hello world', "hello world", `hello world`
+boolean: true, false
+object: {name: "joseph"}
+Array [1,2,3]
+tuples [1,2]
+enum {NEW, OLD}
+any *
+void
+unknown
+never
